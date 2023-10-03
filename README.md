@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Привет, я Денис</h1>
-    <h3>Backend-разработчик из Перми</h3>
+    <h3>Разработчик из Перми</h3>
 </div>
 <div id="socials" align="center">
   <a href="https://t.me/denis_anykeyev">
